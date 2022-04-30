@@ -67,7 +67,7 @@ content:
         title: 대영산전(주)창원공장
         link: www.dysj.co.kr
         # link_text: boringcompany.com
-        sub_title: 기업부설연구소 연구원 / 대리
+        sub_title: 기업부설연구소 연구원 / 제어기술부 대리
         caption: 2018.05 - 2021.12(3년 8개월)
         quote: >
           
@@ -121,7 +121,9 @@ content:
         quote: >
           경남 창원 소재 4년제 대학교
         description: | # this will include new lines to allow paragraphs
-          졸업학점 : 3.33 / 4.5
+          - 졸업학점 : 3.33 / 4.5
+          - 2학년 : 동아리 간부를 하며, 운영에 관한 기획이나 진행 방향등을 설계하고 실제로 진행하는 경험을 해보았습니다. 
+          - 3학년, 4학년 : 캡스톤 디자인을 통해 타 학과와 협업하고, 센서와 제어기술을 사용한 스마트의류/시각장애우용 보조기구를 제작했습니다.
 
       - layout: left
         title: 병점고등학교
@@ -141,10 +143,9 @@ content:
         quote: >
           Python과 Django를 이용한 백엔드 개발 교육
         description: | # this will include new lines to allow paragraphs
-          - Python 독학중 학습 방향성이 원하는 업무 방향과 차이가 있다고 느껴서 수강
-          - 격주로 진행되는 과제 및 Django를 적용한 개인 Toy Project를 수행하며 
-          - Peer Group과의 상호 피드백을 통하여 다른 개발자와 
-          - 개념만 있었던 Git과 GitHub를 실제로 사용하면서,
+          - Python 독학중 학습 방향성이 기존 틀을 벗어나지 못한다고 느껴서 수강하였습니다.
+          - 격주로 진행되는 과제 및 Django를 적용한 개인 Toy Project를 수행하며 Django의 MVT 패턴 및 CRUD등 백엔드의 기초를 배웠습니다.
+          - Peer Group과의 상호 피드백을 통하여 다른 개발자와 협업하고, 커뮤니케이션의 중요성을 한번 더 느낀 시간이 되었습니다.
 
   - title: Certificate # Title for the section
     layout: list # Type of content section (list/text)
@@ -161,14 +162,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      비전공자로써 졸업하고, <mark>Back-End</mark> 개발자와는 거리가 있는 직군에서 일을 해왔었지만, 3년동안 팀원 및 프로젝트 참여 인원과의 커뮤니케이션 및 업무 피드백들을 통해서 소통과 협업의 중요성을 배웠습니다. 또한 제품을 설계하고 직접 만들어가면서 '그림을 그린다.' 라고 표현할 수 있는 업무의 순서나 흐름을 생각하고 직접 시행해보며 전체적인 틀을 그리고 만들며, 세부적인 내용을 하나씩 채워나가고 모르는 부분은 배워나가는 경험을 했습니다.
 
 # Footer
 footer_show_references: true
