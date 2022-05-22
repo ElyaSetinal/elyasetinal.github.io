@@ -100,7 +100,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           - Used as the main : <mark>Python</mark>
-          - Used at least once : <mark>C</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>VBA</mark>
+          - Used at least once : <mark>C</mark>, <mark>HTML</mark>, <mark>VBA</mark>
 
       - layout: left
         title: Framework
@@ -110,6 +110,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           - Used as the main : <mark>Django</mark>
+          - Used at least once : <mark>TailwindCSS</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -158,6 +159,15 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           YBM 주관
+
+      - layout: left
+        title: Toeic
+        caption: 2022.03
+        sub_title: 680
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          LC 345, RC 335
 
   - title: A Little More About Me
     layout: text
